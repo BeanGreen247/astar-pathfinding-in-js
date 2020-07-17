@@ -163,7 +163,7 @@ function draw() {
 
   // Drawing path as continuous line
   noFill();
-  stroke(0, 153, 229);
+  stroke(212, 0, 217);
   strokeWeight(w / 2);
   beginShape();
   for (var i = 0; i < path.length; i++) {
